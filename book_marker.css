@@ -1,0 +1,64 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-container {
+    background-color: #2d3a8c;
+    height: 100vh;
+    padding-top: 20px;
+    font-family: "Roboto";
+}
+
+.hello-heading {
+    color: #ffffff;
+    padding-left: 5px;
+}
+
+.name-heading {
+    color: #ffffff;
+    margin-bottom: 20px;
+    padding-left: 5px;
+}
+
+.card {
+    background-color: #ffffff;
+    height: 80vh;
+    padding: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+}
+
+.card-heading {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #323f4b;
+}
+
+.sub-card {
+    background-color: #f5f7fa;
+    padding: 20px;
+    border-radius: 20px;
+    border-color: #cbd2d9;
+}
+
+.input-label {
+    color: #7b8794;
+    font-size: 13px;
+    font-weight: bold;
+}
+
+.text-input {
+    border-color: #e4e7eb;
+}
+
+.errormeg {
+    color: #dc3545;
+}
+
+#submitBtn {
+    background-color: #21396c;
+    border: 0px;
+}
+
+.bookmarkheading {
+    font-weight: bold;
+    color: #323f4b;
+}
